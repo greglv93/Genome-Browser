@@ -7,7 +7,7 @@ Chromosome 3 genome browser website: http://student.cryst.bbk.ac.uk/~sr002/index
 (not yet integrated with the database and middle layers)
 
 group members:
-  Website: Rudo supple (rudo.supple@gmail.com)
+  Website: Rudo supple
   Middle layer: Sungjae Song (kardo41@gmail.com)
   Databse layer: Gregory Ledderboge-Vucinic (greglv93@gmail.com)
 
