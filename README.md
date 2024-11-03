@@ -1,7 +1,8 @@
-# Genome-Browser #
+# Genome-Browser
 
-Biocomputing II project
-MSc Bioinformatics with Systems Biology, Birkbeck
+Group project for Biocomputing II module
+
+Bioinformatics with Systems Biology MSc, Birkbeck College, University of London
 
 Chromosome 3 genome browser website: http://student.cryst.bbk.ac.uk/~sr002/index.html
 (not yet integrated with the database and middle layers)
